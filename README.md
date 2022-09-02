@@ -1,4 +1,4 @@
 # MoveNet-Pose-Detector
-Pose Estimator using MoveNet-Lightning with Tensorflow Lite.
+Pose Estimator using the fastest rendering MoveNet-Lightning framework with Tensorflow Lite.
 
 
